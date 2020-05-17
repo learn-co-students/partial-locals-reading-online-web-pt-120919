@@ -158,7 +158,7 @@ to:
   <li> <%= post_author.name %></li>
   <li> <%= post_author.hometown %></li>
 </ul>
-```
+``` 
 
 The way we use locals with a partial is similar to how we pass arguments
 into a method.  In the `locals` `Hash`, the `post_author:` key is the argument
